@@ -10,7 +10,7 @@ Parameters:
 
 - `service`: `deebot.refresh`
 - `target.entity_id`: Entity id of vacuum
-- `data.part`: Part, which should be refreshed. Following are supported:
+- `data.part`: Part, which should be refreshed. Please note that these are case-sensitive. Following are supported:
   - Status
   - Error
   - Fan speed
